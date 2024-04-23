@@ -1,11 +1,3 @@
-﻿BusinessEntityID,CountryRegion,City,EMailAddress,EMailSpecialInstructions,EMailTelephoneNumber,FirstName,HomeAddressSpecialInstructions,LastName,MiddleName,Año,Trimestre,Mes,Día,PostalCode,rowguid,StateProvince,Street,TelephoneNumber,TelephoneSpecialInstructions
-291,USA,Seattle,customer1@sample.com,"For urgent issues, do not send e-mail. Instead use this emergency contact phone",425-555-1111,Gustavo,"If correspondence to the primary address fails, try this one.",Achong,,2015,Trim. 2,abril,15,98001,D4C132D3-FCB5-4231-9DD5-888A54BEC693,WA,123 Oak,425-555-1112,Call only after 5:00 p.m.
-293,USA,Edmonds,Joe@sample.com,Do not send e-mail for urgent issues. Use telephone instead.,,Catherine,This is an alternative address for billing only.,Abel,R.,2015,Trim. 2,abril,15,98431,D54E0552-C226-4C22-AF3B-762CA854CDD3,WA,P.O Box 5,206-555-2222,"On weekends, contact the manager at this number."
-295,USA,Redmond,Customer3@sample.com,Do not send e-mails for urgent issues. Use telephone instead.,,Kim,Use this address for billing only.,Abercrombie,,2015,Trim. 2,abril,15,98052,F7CBDB48-0B44-470E-9F37-7060446FBFB9,WA,990 5th Avenue,605-555-9877,
-297,,,Customer4@sample.com,This is secondary email address.,,Humberto,,Acevedo,,2015,Trim. 2,abril,15,,5A41D336-84CF-44D7-B12B-83B64B511F7E,,,,
-299,,,,,,Pilar,,Ackerman,,2015,Trim. 2,abril,15,,DF1FB8AB-2323-4330-9AB8-54E13CE6D8F9,,,,
-301,,,Customer6@sample.com,,,Frances,,Adams,B.,2015,Trim. 2,abril,15,,66980082-C186-40AE-972A-74560E78C1AF,,,,
-303,,,,,,Margaret,,Smith,J.,2015,Trim. 2,abril,15,,691818E1-FC19-445F-B161-E401867368E3,,,206-555-2222,Best time to call is Monday-Wednesday mornings.
-305,,,,,,Carla,,Adams,J.,2015,Trim. 2,abril,15,,5F183B92-1648-4948-8937-47C9C10F0583,,,,
-307,,,,,,Jay,,Adams,,2015,Trim. 2,abril,15,,38256645-4B88-4169-B68A-5B0118F18445,,,253-555-4689,
-309,,,,,,Ronald,,Adina,L.,2015,Trim. 2,abril,15,,DBB05A55-2256-42B1-901E-824D28158911,,,,
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae3a5ec592cc6269c1a555e865046ad417c4fffbaa242921300bbda6fb0599e0
+size 1929
